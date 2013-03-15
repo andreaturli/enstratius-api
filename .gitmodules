@@ -1,0 +1,3 @@
+[submodule "parent/retrofit"]
+	path = parent/retrofit
+	url = git://github.com/square/retrofit.git
